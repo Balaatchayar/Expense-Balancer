@@ -5,12 +5,15 @@ This is a program that allows users to split expenses with friends or colleagues
 
 ## Installation
 
-Clone the repository <br/>
-`git clone https://github.com/Balaatchayar/Expense-Balancer` <br/>
+Clone the repository 
 
+```bash
+git clone https://github.com/Balaatchayar/Expense-Balancer
+```
 
 ### Install Required Packages & Start the application
 
 ```bash
 npm install
 npm start
+```
